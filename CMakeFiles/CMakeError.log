@@ -1,0 +1,54 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine версии 4.6.79.0
+[Microsoft .NET Framework версии 4.0.30319.42000]
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Построение начато 25.12.2015 20:57:44.
+Проект "C:\Users\Виктор\Work\mp2\mp2-lab1-set\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+C:\Users\Виктор\Work\mp2\mp2-lab1-set\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: импортированный проект "C:\Microsoft.Cpp.Default.props" не обнаружен. Проверьте путь в объявлении <Import> и наличие файла на диске.
+Построение проекта "C:\Users\Виктор\Work\mp2\mp2-lab1-set\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj" завершено (целевые объекты по умолчанию) с ошибкой.
+
+Не удалось выполнить построение.
+
+"C:\Users\Виктор\Work\mp2\mp2-lab1-set\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj" (целевой объект по умолчанию) (1) ->
+  C:\Users\Виктор\Work\mp2\mp2-lab1-set\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: импортированный проект "C:\Microsoft.Cpp.Default.props" не обнаружен. Проверьте путь в объявлении <Import> и наличие файла на диске.
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Затраченное время: 00:00:00.18
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine версии 4.6.79.0
+[Microsoft .NET Framework версии 4.0.30319.42000]
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Построение начато 25.12.2015 20:57:45.
+Проект "C:\Users\Виктор\Work\mp2\mp2-lab1-set\CMakeFiles\3.4.0\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+C:\Users\Виктор\Work\mp2\mp2-lab1-set\CMakeFiles\3.4.0\CompilerIdCXX\CompilerIdCXX.vcxproj(18,3): error MSB4019: импортированный проект "C:\Microsoft.Cpp.Default.props" не обнаружен. Проверьте путь в объявлении <Import> и наличие файла на диске.
+Построение проекта "C:\Users\Виктор\Work\mp2\mp2-lab1-set\CMakeFiles\3.4.0\CompilerIdCXX\CompilerIdCXX.vcxproj" завершено (целевые объекты по умолчанию) с ошибкой.
+
+Не удалось выполнить построение.
+
+"C:\Users\Виктор\Work\mp2\mp2-lab1-set\CMakeFiles\3.4.0\CompilerIdCXX\CompilerIdCXX.vcxproj" (целевой объект по умолчанию) (1) ->
+  C:\Users\Виктор\Work\mp2\mp2-lab1-set\CMakeFiles\3.4.0\CompilerIdCXX\CompilerIdCXX.vcxproj(18,3): error MSB4019: импортированный проект "C:\Microsoft.Cpp.Default.props" не обнаружен. Проверьте путь в объявлении <Import> и наличие файла на диске.
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Затраченное время: 00:00:00.14
+
+
