@@ -8,6 +8,13 @@
 #include "tbitfield.h"
 #define B_pMem (sizeof(TELEM) * 8)
 
+TBitField::TBitField()
+{
+	BitLen = 0;
+	MemLen = 0;
+	pMem = 0;
+}
+
 TBitField::TBitField(int len)
 {
 	if (len <= 0)       throw "negative_length";               //Исключение.

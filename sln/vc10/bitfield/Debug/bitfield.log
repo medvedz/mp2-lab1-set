@@ -1,23 +1,20 @@
-﻿Сборка начата 25.12.2015 21:36:53.
-     1>Проект "C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\bitfield\bitfield.vcxproj" в узле 3 (целевые объекты Build).
+﻿Сборка начата 25.12.2015 21:59:33.
+     1>Проект "C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\bitfield\bitfield.vcxproj" в узле 2 (целевые объекты Build).
      1>ClCompile:
          E:\MVS 13 Ultimate\VC\bin\CL.exe /c /I../../../include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\src\tbitfield.cpp ..\..\..\src\tset.cpp
          tset.cpp
-         tbitfield.cpp
          Создание кода...
-     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(26): error C4716: TSet::operator TBitField: должна возвращать значение
-     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(30): error C4716: TSet::GetMaxPower: должна возвращать значение
-     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(58): error C4716: TSet::operator!=: должна возвращать значение
-     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(62): error C4716: TSet::operator+: должна возвращать значение
-     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(66): error C4716: TSet::operator+: должна возвращать значение
-     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(70): error C4716: TSet::operator-: должна возвращать значение
-     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(74): error C4716: TSet::operator*: должна возвращать значение
-     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(78): error C4716: TSet::operator~: должна возвращать значение
-     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(88): error C4716: operator<<: должна возвращать значение
-     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(84): error C4716: operator>>: должна возвращать значение
-     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(49): error C4716: TSet::operator=: должна возвращать значение
-     1>Сборка проекта "C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\bitfield\bitfield.vcxproj" завершена (целевые объекты Build) с ошибкой.
+     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(159): warning C4700: использована неинициализированная локальная переменная "a"
+     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(140): warning C4700: использована неинициализированная локальная переменная "a"
+     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(147): warning C4700: использована неинициализированная локальная переменная "tmp"
+         Пропуск... (изменения не обнаружены)
+         tbitfield.cpp
+       Lib:
+         E:\MVS 13 Ultimate\VC\bin\Lib.exe /OUT:"C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\Debug\bitfield.lib" /NOLOGO Debug\tbitfield.obj
+         Debug\tset.obj
+         bitfield.vcxproj -> C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\Debug\bitfield.lib
+     1>Сборка проекта "C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\bitfield\bitfield.vcxproj" завершена (целевые объекты Build).
 
-Ошибка сборки.
+Сборка успешно завершена.
 
-Затраченное время: 00:00:00.61
+Затраченное время: 00:00:00.39
