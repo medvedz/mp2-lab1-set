@@ -1,0 +1,14 @@
+﻿Сборка начата 25.12.2015 21:13:39.
+     1>Проект "C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\sample_prime_numbers\sample_prime_numbers.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         E:\MVS 13 Ultimate\VC\bin\CL.exe /c /I../../../include /ZI /nologo /W3 /WX- /Od /Oy- /D CODE_ANALYSIS /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze /analyze:plugin"E:\MVS 13 Ultimate\VC\\bin\localespc.dll" /errorReport:prompt   /analyze:quiet ..\..\..\samples\sample_prime_numbers.cpp
+         sample_prime_numbers.cpp
+       Link:
+         E:\MVS 13 Ultimate\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\Debug\sample_prime_numbers.exe" /INCREMENTAL /NOLOGO /LIBPATH:../Debug bitfield.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\Debug\sample_prime_numbers.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\Debug\sample_prime_numbers.lib" /MACHINE:X86 /SAFESEH Debug\sample_prime_numbers.obj
+         "C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\Debug\bitfield.lib"
+     1>LINK : fatal error LNK1104: не удается открыть файл "bitfield.lib"
+     1>Сборка проекта "C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\sample_prime_numbers\sample_prime_numbers.vcxproj" завершена (целевые объекты Rebuild) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:05.53

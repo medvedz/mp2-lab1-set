@@ -1,0 +1,20 @@
+﻿Сборка начата 25.12.2015 21:59:33.
+     1>Проект "C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\bitfield\bitfield.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\MVS 13 Ultimate\VC\bin\CL.exe /c /I../../../include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\src\tbitfield.cpp ..\..\..\src\tset.cpp
+         tset.cpp
+         Создание кода...
+     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(159): warning C4700: использована неинициализированная локальная переменная "a"
+     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(140): warning C4700: использована неинициализированная локальная переменная "a"
+     1>c:\users\виктор\work\mp2\mp2-lab1-set\src\tset.cpp(147): warning C4700: использована неинициализированная локальная переменная "tmp"
+         Пропуск... (изменения не обнаружены)
+         tbitfield.cpp
+       Lib:
+         E:\MVS 13 Ultimate\VC\bin\Lib.exe /OUT:"C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\Debug\bitfield.lib" /NOLOGO Debug\tbitfield.obj
+         Debug\tset.obj
+         bitfield.vcxproj -> C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\Debug\bitfield.lib
+     1>Сборка проекта "C:\Users\Виктор\Work\mp2\mp2-lab1-set\sln\vc10\bitfield\bitfield.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.39
